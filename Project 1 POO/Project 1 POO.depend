@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524038070 source:d:\codeblocks\projects\sem ii\poo\project 1 poo\main.cpp
+	<iostream>
+	<algorithm>
+
